@@ -19,8 +19,8 @@ h(n): Estimation cost from n to goal node.<br>
 2. Then calling astar search for finding the best suited path
 ### GUI
 With a little bit of OOP concept, The current board and solved board is displayed using tkinter.<br><br>
-![image](image\maze_developed.png)
-![image](image\mazesolved.png)
+<img src="image/maze_developed.png" height="45%" width="45%">
+<img src="image/mazesolved.png" height="45%" width="45%">
 
 Feel free to provide your valuable inputs.
 # Thank you
